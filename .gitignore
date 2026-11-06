@@ -1,0 +1,9 @@
+# Public documentation only. Firmware is attached to a GitHub Release.
+*.bin
+*.zip
+*.jpg
+*.png
+firmware_backups/
+diagnostics/
+.venv*/
+__pycache__/
